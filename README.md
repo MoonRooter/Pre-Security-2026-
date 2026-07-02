@@ -56,18 +56,16 @@ This repository documents my progress, notes, and hands-on learning from the **T
 ```text
 Pre-Security-2026/
 │
-├── Computer-Fundamentals/
-├── Operating-System-Fundamentals/
-├── Software-Fundamentals/
-├── Networking-Fundamentals/
-├── Web-Fundamentals/
-├── Cyber-Security-Fundamentals/
-├── Programming-Fundamentals/
-├── Resources/
-└── README.md
+├── 📁 01. Network Fundamentals
+├── 📁 02. How The Web Works
+├── 📁 03. Computer Fundamentals
+├── 📁 04. Operating Systems Basics
+├── 📁 05. Software Basics
+├── 📁 06. Attacks and Defenses
+├── 📁 screenshots
+├── 📄 LICENSE
+└── 📄 README.md
 ```
-
----
 
 ## 📜 Certificate
 
